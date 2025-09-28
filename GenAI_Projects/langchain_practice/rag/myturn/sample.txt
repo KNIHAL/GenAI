@@ -1,0 +1,11 @@
+LangChain is a framework for building applications powered by language models.
+RAG stands for Retrieval Augmented Generation.
+FAISS is a library for efficient similarity search.
+
+Paperwork tasks include writing leave applications, official letters, and meeting summaries.
+Leave applications must include name, date, reason, and duration.
+Meeting summaries should highlight key decisions and action items.
+
+Common email tasks include responding to leave requests, generating invoices, and preparing status reports.
+When replying to leave requests, always confirm dates and approval status.
+For invoices, include client details, amount, and due date.
