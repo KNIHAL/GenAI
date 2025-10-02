@@ -1,0 +1,28 @@
+research_task:
+  description: >
+    Search and research current leads related to {topic} in the {role} field.
+    Focus on finding active job postings, freelance opportunities, and potential clients
+    looking for {role} services. Use the search tool to gather comprehensive data.
+  expected_output: >
+    A detailed list of potential leads including:
+    - Company/client names
+    - Contact information (if available)
+    - Project descriptions
+    - Budget ranges
+    - Posting dates and deadlines
+    - Relevance scores
+  agent: researcher
+
+reporting_task:
+  description: >
+    Analyze the research data and create a comprehensive lead generation report.
+    Prioritize leads based on relevance, budget, and feasibility for {role} professionals.
+    Include actionable insights and recommendations.
+  expected_output: >
+    A well-structured markdown report containing:
+    - Executive summary of findings
+    - Top 10 prioritized leads with detailed analysis
+    - Market insights and trends
+    - Actionable next steps for lead conversion
+    - Contact strategies and timing recommendations
+  agent: reporting_analyst

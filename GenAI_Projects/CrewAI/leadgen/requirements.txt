@@ -1,0 +1,3 @@
+crewai ['tools']
+langchain-groq
+python-dotenv
